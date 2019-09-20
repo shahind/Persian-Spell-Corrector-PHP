@@ -3,3 +3,5 @@ this is a PHP Script which is developed based on Felipe Ribeiro's Work(http://ww
 
 I just changed it in order to use it for Persian words.
 a database of Persian words is used from Persian-Words-Database (https://github.com/shahind/Persian-Words-Database)
+
+Put your words into big.txt file and use the class : SpellCorrector::correct($string)
