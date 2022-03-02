@@ -1,11 +1,3 @@
-# Persian-Spell-Corrector-PHP
-This is a PHP Script which is developed based on Felipe Ribeiro's Work(http://www.feliperibeiro.com) who developed a Spell Checker for English based on Peter Norvig's algorithm for PHP.
-
-I just changed it in order to use it for Persian words.
-a database of Persian words is used from Persian-Words-Database (https://github.com/shahind/Persian-Words-Database)
-
-Put your words into big.txt file, include the class in your project and use it: SpellCorrector::correct($string)
-
 #اصلاح غلط املایی و نگارشی فارسی
 
 این کد بر اساس کد فلیپ ریبرو توسعه داده شده است تا به کمک الگوریتم پیشنهادی پیتر نورویگ اشکالات نگارشی و غلط املایی متون و کلمات
@@ -17,3 +9,12 @@ Put your words into big.txt file, include the class in your project and use it: 
 (https://github.com/shahind/Persian-Words-Database)
 
 دیتابیس فوق از کلمات فرهنگ معین، ویکی پدیای فارسی، اشعار شاعران فارسی و سایر کلمات تشکیل شده است و مجموعا شامل نزدیک به 750 هزار کلمه می شود
+
+
+# Persian-Spell-Corrector-PHP
+This is a PHP Script which is developed based on Felipe Ribeiro's Work(http://www.feliperibeiro.com) who developed a Spell Checker for English based on Peter Norvig's algorithm for PHP.
+
+I just changed it in order to use it for Persian words.
+a database of Persian words is used from Persian-Words-Database (https://github.com/shahind/Persian-Words-Database)
+
+Put your words into big.txt file, include the class in your project and use it: SpellCorrector::correct($string)
